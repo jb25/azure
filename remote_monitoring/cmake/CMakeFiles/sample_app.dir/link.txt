@@ -1,0 +1,1 @@
+/usr/bin/cc     CMakeFiles/sample_app.dir/parson/parson.c.o CMakeFiles/sample_app.dir/remote_monitoring.c.o CMakeFiles/sample_app.dir/main.c.o  -o sample_app -rdynamic -lserializer -liothub_client -liothub_client_mqtt_transport -laziotsharedutil -lumqtt -lpthread -lcurl -lssl -lcrypto -lm 
